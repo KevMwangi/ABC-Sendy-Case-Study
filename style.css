@@ -40,3 +40,10 @@ li a {
   z-index: 10;
   opacity: 0.8;
 }
+.title-component
+{
+  display: flex;
+  padding: 40px;
+  justify-content: space-between;
+  font-size: 20px;
+}
